@@ -1,6 +1,6 @@
 # NSCLCBench
 
-#NSCLCBench: Benchmarking Clinical Trial Q&A with LLMs and RAG
+NSCLCBench: Benchmarking Clinical Trial Q&A with LLMs and RAG
 
 NSCLCBench is a lightweight benchmark designed to evaluate how well Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems answer core evidence-based questions about Phase 3 non-small cell lung cancer (NSCLC) clinical trials. It provides a structured evaluation pipeline to test extraction accuracy, endpoint reasoning, and hallucination control.
 
